@@ -1,0 +1,9 @@
+data_salary  :  10k-18k data_company  :  一迅软件 data_positionname  :  中级Java软件工程师 
+data_salary  :  10k-20k data_company  :  东信同邦 data_positionname  :  安卓高级开发工程师 
+data_salary  :  5k-8k data_company  :  鸿鹰动画 data_positionname  :  3D/三维动画师 
+data_salary  :  15k-30k data_company  :  功夫财经 data_positionname  :  产品VP 
+data_salary  :  8k-12k data_company  :  天工艺彩 data_positionname  :  编剧 
+data_salary  :  10k-20k data_company  :  北京链家 data_positionname  :  HRBP 
+data_salary  :  8k-16k data_company  :  九曳供应链 data_positionname  :  WMS实施顾问 
+data_salary  :  7k-10k data_company  :  华润置地商业地产总部 data_positionname  :  培训主管 
+data_salary  :  6k-10k data_company  :  企赢赢 data_positionname  :  电话销售 
